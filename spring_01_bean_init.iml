@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="ApplicationContext1" removed="false">
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/resources/applicationContext1.xml</file>
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/java/com/zzh/config/DbConfig.java</file>
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/java/com/zzh/config/SpringConfig6.java</file>
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/java/com/zzh/config/SpringConfig32.java</file>
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/java/com/zzh/config/SpringConfig33.java</file>
+        </fileset>
+        <fileset id="fileset2" name="ApplicationContext2" removed="false">
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/resources/applicationContext2.xml</file>
+          <file>file://$MODULE_DIR$/spring_01_bean_init/src/main/resources/applicationContext1.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/spring_01_bean_init/target/classes" />
+    <output-test url="file://$MODULE_DIR$/spring_01_bean_init/target/test-classes" />
+    <content url="file://$MODULE_DIR$/spring_01_bean_init">
+      <sourceFolder url="file://$MODULE_DIR$/spring_01_bean_init/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/spring_01_bean_init/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/spring_01_bean_init/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/spring_01_bean_init/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.9" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.9" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.2.11" level="project" />
+  </component>
+</module>
